@@ -1,4 +1,4 @@
-# Copyright (c) HashiCorp, 
+# Copyright (c) HashiCorp
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
